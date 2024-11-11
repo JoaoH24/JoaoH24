@@ -51,21 +51,21 @@
 
 | Skills | Area |
 | :--: | :--: |
-| <p align="center"> <a href="#"> <img height=64px  src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgres,postman,docker,kubernetes,graphql,linux&perline=5" /></a></p> | `Backend` |
-| <p align="center"> <a href="#"> <img height=29px  src="https://skillicons.dev/icons?i=angular,bootstrap,sass,figma" /></a></p> | `Frontend` |
-| <p align="center"> <a href="#"> <img height=29px  src="https://skillicons.dev/icons?i=py,anaconda,selenium,sqlite" /></a></p> | `Data Analyst` |
-| <p align="center"> <a href="#"> <img height=29px  src="https://skillicons.dev/icons?i=latex,git,bash,powershell" /></a></p> | `Complements` |
+| <p align="center"> <a href="#"> <img height=84px  src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgres,postman,docker,kubernetes,graphql,linux&perline=5" /></a></p> | `Backend` |
+| <p align="center"> <a href="#"> <img height=37px  src="https://skillicons.dev/icons?i=angular,bootstrap,sass,figma" /></a></p> | `Frontend` |
+| <p align="center"> <a href="#"> <img height=37px  src="https://skillicons.dev/icons?i=py,anaconda,selenium,sqlite" /></a></p> | `Data Analyst` |
+| <p align="center"> <a href="#"> <img height=37px  src="https://skillicons.dev/icons?i=latex,git,bash,powershell" /></a></p> | `Complements` |
 
 | Competitive Programming |
 | :---------------------: |
-|<a href="#"> <img height=25px  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/></a><a href="#"> <img height=25px  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"/></a><a href="#"> <img height=25px  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></a><a href="#"> <img height=20px  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/></a>|
+|<a href="#"> <img height=34px  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/></a><a href="#"> <img height=36px  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"/></a><a href="#"> <img height=28px  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></a><a href="#"> <img height=22px  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/></a>|
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img style="margin:1%" width=32% src="https://github-readme-stats.vercel.app/api?username=joaoh24&show_icons=true&theme=dark&bg_color=0D1117"
+  <img style="margin:1%" src="https://github-readme-stats.vercel.app/api?username=joaoh24&show_icons=true&theme=dark&bg_color=0D1117&hide_rank=true&hide_border=false"
   alt="joaoh24 stats"/>
-  <img style="margin:1%" width=32% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoh24&layout=compact&langs_count=8&theme=dark&bg_color=0D1117"
+  <img style="margin:1%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoh24&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&hide_border=false"
   alt="joaoh24 stats"/>
 </div>
 
