@@ -1,4 +1,4 @@
-[resume]: https://drive.google.com/file/d/1NEkxDTeBsObyO-9sD8aZICAiPeKaohaf/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1hjDas7A_hBW-hkJGtRVfaaZYg1GaUbkN/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/joaoh24/
 [email]: joao.huaman.f@gmail.com
 
